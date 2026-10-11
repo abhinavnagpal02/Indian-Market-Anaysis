@@ -1,0 +1,12 @@
+Date,Repo_Rate_Pct,Event,Source
+2021-10-01,4.0,Starting level (unchanged since May 2020),RBI MPC statements
+2022-05-04,4.4,Hike +40 bps (unscheduled),RBI MPC statements
+2022-06-08,4.9,Hike +50 bps,RBI MPC statements
+2022-08-05,5.4,Hike +50 bps,RBI MPC statements
+2022-09-30,5.9,Hike +50 bps,RBI MPC statements
+2022-12-07,6.25,Hike +35 bps,RBI MPC statements
+2023-02-08,6.5,Hike +25 bps (last hike),RBI MPC statements
+2025-02-07,6.25,Cut -25 bps (first cut in ~5 years),RBI MPC statements
+2025-04-09,6.0,Cut -25 bps,RBI MPC statements
+2025-06-06,5.5,Cut -50 bps,RBI MPC statements
+2025-12-05,5.25,Cut -25 bps,RBI MPC statements

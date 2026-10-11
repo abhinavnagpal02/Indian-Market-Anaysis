@@ -1,0 +1,25 @@
+Date,Market,Event,Category,Index,Trading_Day_Used,Index_Return_That_Day,Nifty_Return_That_Day
+2022-02-24,Global,Russia invades Ukraine,Geopolitics,Nifty 50,2022-02-24,-0.0477810384708364,-0.0477810384708364
+2022-03-16,USA,US Fed makes its first rate hike of the cycle,Rates,S&P 500,2022-03-16,0.0223837613571822,0.0187451004846066
+2022-05-04,India,RBI surprise hike: rate cycle begins (4.00% to 4.40%),Rates,Nifty 50,2022-05-04,-0.0229361834519363,-0.0229361834519363
+2023-01-25,India,Sell-off after Hindenburg report on Adani Group (published 24 Jan after Indian close),Corporate,Nifty 50,2023-01-25,-0.0124929796250122,-0.0124929796250122
+2023-02-08,India,"RBI's last hike, repo at 6.50%",Rates,Nifty 50,2023-02-08,0.0084755364246817,0.0084755364246817
+2023-03-10,USA,Silicon Valley Bank collapses,Banking,S&P 500,2023-03-10,-0.0144781384570513,-0.010045664635585
+2024-06-04,India,General election results day,Politics,Nifty 50,2024-06-04,-0.0592935994164107,-0.0592935994164107
+2024-08-05,Japan,Yen carry-trade unwind: global sell-off,Global,Nikkei 225,2024-08-05,-0.1239575767471423,-0.0267864578946228
+2024-09-24,China,China announces large stimulus package,Policy,Shanghai Composite,2024-09-24,0.0415465318029963,5.203002169906768e-05
+2025-02-07,India,RBI's first rate cut in nearly 5 years (6.25%),Rates,Nifty 50,2025-02-07,-0.0018387386257991,-0.0018387386257991
+2025-04-03,USA,Markets react to US 'reciprocal' tariffs (announced 2 Apr after US close),Trade,S&P 500,2025-04-03,-0.0483956333599014,-0.0035251486188494
+2025-04-07,Global,Tariff sell-off hits markets worldwide,Trade,Nifty 50,2025-04-07,-0.0324325462830553,-0.0324325462830553
+2025-04-09,USA,US pauses most new tariffs for 90 days,Trade,S&P 500,2025-04-09,0.0951538764490484,-0.0060658560080705
+2025-05-07,India,Operation Sindoor (India-Pakistan conflict),Geopolitics,Nifty 50,2025-05-07,0.0014274549954715,0.0014274549954715
+2025-05-12,India,Markets rally after India-Pakistan ceasefire,Geopolitics,Nifty 50,2025-05-12,0.0381830730902199,0.0381830730902199
+2025-06-06,India,RBI cuts repo by 50 bps to 5.50%,Rates,Nifty 50,2025-06-06,0.0101875239545026,0.0101875239545026
+2025-08-27,India,US 50% tariff on Indian goods takes effect,Trade,Nifty 50,2025-08-28,-0.0085444301039235,-0.0085444301039235
+2025-09-22,India,GST rate cuts take effect,Policy,Nifty 50,2025-09-22,-0.0049236357186648,-0.0049236357186648
+2025-12-05,India,RBI cuts repo to 5.25%,Rates,Nifty 50,2025-12-05,0.0058654330916598,0.0058654330916598
+2026-02-04,India IT,Nifty IT's worst day in six years after Anthropic's Claude Cowork plugins raise AI-disruption fears,Technology,Nifty IT,2026-02-04,-0.0586894290598069,0.0018831648283172
+2026-02-24,India IT,AI-disruption fears hit IT stocks (Anthropic's legacy-code claims),Technology,Nifty IT,2026-02-24,-0.0474477425080426,-0.0112141566279703
+2026-03-02,Global,US/Israel-Iran war: oil supply shock begins (approx. date),Geopolitics,Nifty 50,2026-03-02,-0.0124292274216383,-0.0124292274216383
+2026-03-31,Global,Brent crude peaks at $118 a barrel,Commodities,Nifty 50,2026-04-01,0.0155834382937352,0.0155834382937352
+2026-04-08,India,US-Iran ceasefire: Sensex's biggest one-day gain in 6 years,Geopolitics,Nifty 50,2026-04-08,0.0377837929561599,0.0377837929561599

@@ -1,0 +1,40 @@
+Name,Country,Group,Basis,CAGR
+Nikkei 225,Japan,Global,In local currency,0.1939999825459564
+S&P 500,USA,Global,In local currency,0.1225016478996063
+DAX,Germany,Global,In local currency,0.1072774148379684
+FTSE 100,UK,Global,In local currency,0.0834124359815975
+Shanghai Composite,China,Global,In local currency,0.0136103342318416
+Nifty 50,India,India Broad,In local currency,0.051574543978466
+Sensex,India,India Broad,In local currency,0.0424733977339024
+Nifty Auto (ETF),India,India Sector,In local currency,0.19886956680082
+Nifty Pharma,India,India Sector,In local currency,0.1232702483454963
+Nifty Bank,India,India Sector,In local currency,0.0798993498313129
+Nifty FMCG (ETF),India,India Sector,In local currency,0.0342431999096108
+Nifty IT,India,India Sector,In local currency,-0.0403082204556134
+Nifty Midcap 50,India,India Size,In local currency,0.153713010412406
+Nikkei 225,Japan,Global,In US dollars,0.1140524826210538
+S&P 500,USA,Global,In US dollars,0.1225016478996063
+DAX,Germany,Global,In US dollars,0.1010999615733034
+FTSE 100,UK,Global,In US dollars,0.0797451088420699
+Shanghai Composite,China,Global,In US dollars,0.0056549725673655
+Nifty 50,India,India Broad,In US dollars,-0.0016501696156763
+Sensex,India,India Broad,In US dollars,-0.0102906676779317
+Nifty Auto (ETF),India,India Sector,In US dollars,0.1348919450519405
+Nifty Pharma,India,India Sector,In US dollars,0.0664167065786707
+Nifty Bank,India,India Sector,In US dollars,0.025240995904433
+Nifty FMCG (ETF),India,India Sector,In US dollars,-0.0181042997679826
+Nifty IT,India,India Sector,In US dollars,-0.0888823518829987
+Nifty Midcap 50,India,India Size,In US dollars,0.0953186294332735
+Nikkei 225,Japan,Global,In rupees,0.173445615680958
+S&P 500,USA,Global,In rupees,0.1823452286767073
+DAX,Germany,Global,In rupees,0.1598025609123543
+FTSE 100,UK,Global,In rupees,0.1373092235679394
+Shanghai Composite,China,Global,In rupees,0.0573830977678169
+Nifty 50,India,India Broad,In rupees,0.051574543978466
+Sensex,India,India Broad,In rupees,0.0424733977339024
+Nifty Auto (ETF),India,India Sector,In rupees,0.19886956680082
+Nifty Pharma,India,India Sector,In rupees,0.1232702483454963
+Nifty Bank,India,India Sector,In rupees,0.0798993498313129
+Nifty FMCG (ETF),India,India Sector,In rupees,0.0342431999096108
+Nifty IT,India,India Sector,In rupees,-0.0403082204556134
+Nifty Midcap 50,India,India Size,In rupees,0.153713010412406

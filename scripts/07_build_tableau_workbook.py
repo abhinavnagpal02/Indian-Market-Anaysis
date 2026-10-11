@@ -340,8 +340,8 @@ def dashboards():
              title="India at a glance: the Nifty 50, Oct 2021 to Oct 2026",
              subtitle=(f"The Nifty 50 went from {nifty['Start_Price']:,.0f} to "
                        f"{nifty['End_Price']:,.0f}, up {fmt_pct(nifty['Total_Return'])} in five "
-                       f"years, or {fmt_pct(nifty['CAGR'])} a year, about what a treasury "
-                       f"bill paid. Its deepest fall was {fmt_pct(nifty['Max_Drawdown'])} "
+                       f"years, or {fmt_pct(nifty['CAGR'])} a year, below the roughly 6% a "
+                       f"year a 91-day treasury bill paid. Its deepest fall was {fmt_pct(nifty['Max_Drawdown'])} "
                        f"({fmt_date(nifty['MDD_Peak_Date'])} to {fmt_date(nifty['MDD_Trough_Date'])}). "
                        f"It is now {fmt_pct(-nifty_px['Drawdown'].iloc[-1])} below its record "
                        f"close of {peak['Close']:,.0f} on {fmt_date(peak['Date'])}."),
@@ -357,8 +357,8 @@ def dashboards():
              subtitle=(f"In US dollars the Nifty 50 returned {usd['Nifty 50']} a year, "
                        + rank_text
                        + f"The rupee fell from {inr.iloc[0]:.1f} to {inr.iloc[-1]:.1f} per "
-                       f"dollar. Did better in dollars: {better}. India was one of the "
-                       "calmest markets, and low risk came with low return."),
+                       f"dollar. Did better in dollars: {better}. Over this window India was "
+                       "one of the least volatile markets, and smaller swings came with lower returns."),
              footer=("Growth of 100: every index starts at 100 and is converted to US "
                      "dollars each day. Correlations use weekly returns because markets "
                      "close at different times. 1 = always move together, 0 = unrelated."),

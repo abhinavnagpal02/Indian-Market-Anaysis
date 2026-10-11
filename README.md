@@ -87,7 +87,8 @@ in five years (3% of days), against 150 days for the Nikkei. Measured in
 dollars (index and currency swings together), Nifty's volatility is 15.3%,
 still the second-lowest after the FTSE (15.2%).
 
-**Conclusion:** Indian large caps were among the calmest markets in the world.
+**Conclusion:** Over this window, Indian large caps were among the least volatile
+of the six markets.
 Japan's high return came with almost twice India's volatility.
 
 ### 3. Worst falls: drawdowns

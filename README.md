@@ -51,7 +51,7 @@ and 5 currencies, plus India's GDP, inflation, repo rate and foreign investor fl
 **Interactive dashboard:** `tableau/India_Market_Dashboard.twbx`, three pages
 (India at a glance, India vs the world, Inside India) with 12 charts.
 Open it in Tableau Public or Tableau Desktop; `TABLEAU_GUIDE.md` explains each
-page and how the workbook is built. Tableau Public link: to be added.
+page and how the workbook is built. Live version on Tableau Public: [India Market Dashboard](https://public.tableau.com/views/India_Market_Dashboard/Indiaataglance).
 
 ---
 

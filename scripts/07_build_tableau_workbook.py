@@ -634,7 +634,7 @@ def add_dashboard(parent, page, sheets_by_name, sources):
 
 
 def add_windows(parent, pages, sheets, sources):
-    """Tabs along the bottom of Tableau: dashboards first, then each chart."""
+    """Tabs along the bottom of Tableau: the three dashboards (charts hidden)."""
     windows = add(parent, "windows")
     for i, page in enumerate(pages):
         attrs = {"class": "dashboard", "name": page["name"]}
@@ -646,8 +646,10 @@ def add_windows(parent, pages, sheets, sources):
             for name, _, _ in row:
                 add(add(points, "viewpoint", name=name), "zoom", type="entire-view")
         add(win, "active", id="-1")
+    # Single charts are hidden (they still live inside the dashboards), so with
+    # "Show sheets as tabs" on, Tableau Public shows only the three dashboards.
     for sheet in sheets:
-        win = add(windows, "window", class_="worksheet", name=sheet["name"])
+        win = add(windows, "window", class_="worksheet", hidden="true", name=sheet["name"])
         cards = add(win, "cards")
         left = add(add(cards, "edge", name="left"), "strip", size="160")
         for card in ("pages", "filters", "marks"):

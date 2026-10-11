@@ -8,11 +8,13 @@ pages, 12 charts, built from the CSVs in `output/`.
 1. Install **Tableau Public** (free, public.tableau.com) or use Tableau Desktop.
 2. In Tableau: **File > Open** and pick `tableau/India_Market_Dashboard.twbx`.
    The data is packed inside the file, so nothing else is needed.
-3. The tabs along the bottom: three dashboards first, then one tab per chart.
-4. To publish: **File > Save to Tableau Public As** (free account). The data
-   sources are already **extracts**, which Tableau Public requires: a live
-   connection reads the CSV every time, while an extract is a fast snapshot in
-   Tableau's own `.hyper` format.
+3. The tabs along the bottom are the three dashboards. The single charts are
+   hidden; right-click a dashboard tab > **Unhide All Sheets** to see them.
+4. To publish: **File > Save to Tableau Public As** (free account). On the
+   published page, keep **Show Sheets as Tabs** turned on, so visitors can move
+   between the three dashboards. The data sources are already **extracts**,
+   which Tableau Public requires: a live connection reads the CSV every time,
+   while an extract is a fast snapshot in Tableau's own `.hyper` format.
 
 If Tableau says it can't find a data file, click **Edit Connection** and pick
 the CSV with the same name from `output/`.

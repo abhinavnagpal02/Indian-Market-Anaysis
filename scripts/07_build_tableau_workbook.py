@@ -362,9 +362,9 @@ def dashboards():
              footer=("Growth of 100: every index starts at 100 and is converted to US "
                      "dollars each day. Correlations use weekly returns because markets "
                      "close at different times. 1 = always move together, 0 = unrelated."),
-             rows=[[("Growth of 100 invested, in US dollars", 1.5, True),
+             rows=[[("Yearly growth (CAGR) in three currencies", 1.5, False),
                     ("Risk vs return, in US dollars", 1, False)],
-                   [("Yearly growth (CAGR) in three currencies", 1, False),
+                   [("Growth of 100 invested, in US dollars", 1, True),
                     ("How closely markets move together", 1, False)]]),
         dict(name="Inside India",
              title="Inside India: sectors, company size and interest rates",
